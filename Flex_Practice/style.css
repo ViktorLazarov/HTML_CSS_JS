@@ -1,0 +1,24 @@
+p {
+    background-color: aqua;
+}
+
+.parent {
+    border: 1px solid green;
+    display: flex;
+    gap: 1em;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.header {
+    display: flex;
+    justify-content: center;
+    border: 1px solid blue;
+    margin-bottom: 5px;
+}
+
+h1 {
+    color: red;
+    border: 2px solid green;
+    border-radius: 10px;
+}

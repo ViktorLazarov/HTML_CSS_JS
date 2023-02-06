@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, sans-serif;
+}
+header {
+    text-align: center;
+    margin: 40px 10px;
+}
+header h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url(images/pattern.jpeg);
+    margin-top: 40px;
+}
+main {
+    margin: 0 10px;
+}
+div h2 {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+div img {
+    margin: 30px 0;
+}
+div p {
+    margin: 15px 0;
+}
+div span {
+    color: blue;
+    font-weight: bold;
+}
+#brushes {
+    background-color: mediumspringgreen;
+}
+#frames {
+    background-color: lightcoral;
+}
+#paint {
+    background-color: skyblue;
+}

@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+}
+
+.parent p {
+    background-color: aquamarine;
+    margin: 0px;
+}
